@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  🎲 Banco de Datos: <strong>MySQL.</strong>
+  🎲 Banco de Dados: <strong>MySQL.</strong>
 </p>
 
 <p align="left">
