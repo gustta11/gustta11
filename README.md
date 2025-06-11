@@ -4,4 +4,4 @@
 <p>🎓 Técnico em Desenvolvimento de Sistemas no <a href="https://www.senaibahia.com.br/" target="blank_">Senai BA</a></p>
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,css,html,js,py,react,nodejs,mysql,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,css,html,js,py,react,nodejs,mysql,postgres,)](https://skillicons.dev)
